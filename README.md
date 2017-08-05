@@ -1,4 +1,4 @@
-# ISO200222-to-ESR
+# ISO20022-to-ESR
 Convert ISO20022 camt.054.xml to ESR files ESR Gutschriften Einzahlungsscheine
 
 ## Was kann das Programm
