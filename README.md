@@ -36,6 +36,15 @@ Sollen die Dateien als CSV-Dateien gespeichert werden, ändern Sie den Eintrag in
 BESRFileExtension=.csv
 ```
 
+##### XMLInputDirectory
+Wenn Sie XMLInputDirectory auf einen Dateipfad setzen, brauchen Sie beim Aufruf des Programms keine Parameter übergeben.
+
+Mit dieser Einstellung werden die Dateien im Ordner C:\ZahlEingang\CAMT54\ konvertiert
+```
+XMLInputDirectory=C:\ZahlEingang\CAMT54\
+```
+
+
 ##### BESROutputDirectory
 Möchten Sie die Zieldateien in einem Ordner sammeln, dann benutzen Sie diese Einstellung.
 Per Standard ist die Einstellung leer und die Zieldateien werden im gleichen Ordner wie die Quelldateien geschrieben.
