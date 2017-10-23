@@ -77,7 +77,7 @@ mail: support@willicommer.de
 Die aktuelle Version finden Sie [auf GitHub](http://github.com/WilliCommer/ISO200222-to-ESR/)
 
 Wenn Ihnen das Programm gefällt oder sogar Geld spart weil Sie Ihre Software nicht ändern müssen, dann überweisen Sie eine Spende auf dieses Konto:
-IBAN: DE42 3825 0110 008 5307 01
+IBAN: DE42 3825 0110 0008 5307 01
 BIC: WELADED1EUS
 
 
